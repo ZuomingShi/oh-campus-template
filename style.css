@@ -74,7 +74,7 @@ h2 {		     /* This styles the headers within the page */
 
 /* This alters the appearance of the div with id="signup". */
 #signup {
-	background: black;
+	background: white;
 	text-align: center;
 }
 
